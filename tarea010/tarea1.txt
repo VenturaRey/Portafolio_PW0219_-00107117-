@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+	<meta charset="UTF-8">
+
+</head>
+
+<body>
+
+	<img src="imagen.PNG" >
+	<h1>Titulo</h1>
+	<h2><a href="#personales">Datos Personales</a></h2>
+	<h2>Menu</h2>
+	<h2>Perfil</h2>
+	<h2>Pie De Pagina</h2>
+	
+	<section>
+	<h2>Datos personales</h2>
+	<a name=personales>
+	<h3>Nombre</h3>
+	<p>Reynaldo Alcides Bonilla Ventura</p>
+	<br />
+	<h3>Descripcion General</h3>
+	<P>Soy una persona que le gusta descubir cosas nuevas y afrontar nuevos retos y dar todo lo que pueda para lograr mis objetivos</p>	
+	</a>
+	</section>
+
+	<section>
+	<h3>Menu</h3>
+	</section>
+
+	<section>
+	<h3>Perfil</h3>
+	<p>00107117</p>
+	<p>Primer año de Universidad</p>
+	<p>Ingeneria Informatica</p>
+	<p>00107117@uca.edu.sv</p>
+	<p>https://github.com/VenturaRey/Portafolio_PW0219_-00107117-</p>
+	</section>
+	
+</body>
+
+
+
+
+
+</html>
