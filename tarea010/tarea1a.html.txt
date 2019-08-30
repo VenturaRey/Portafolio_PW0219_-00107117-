@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+	<meta charset="UTF-8">
+
+</head>
+
+<body>
+
+	<img src="imagen1.PNG" >
+	<h1><a href="estudio">Estudios</a></h1>
+
+	<section>
+	<a name=estudiop>
+	<h2>Estudios Cruzados</h2>
+	<p>Educacion Basica</p>
+	<p>Bachillerato</p>
+	<p>Universidad en proceso</p>
+	</a>
+	</section>	
+
+
+</body>
+
+</html>
