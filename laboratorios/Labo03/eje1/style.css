@@ -1,0 +1,60 @@
+#eje2>img{
+	
+
+        width: 100px;
+        height: 50px;
+	
+}
+#eje2a>img{
+	
+
+        width: 100px;
+        height: 50px;
+	
+}
+
+.btn.p{
+	
+	background:red;
+}
+.btn.q{
+	background:blue;
+}
+.btn.r{
+	background:yellow;
+}
+
+h1{
+	
+	display: flex;
+	justify-content: center;
+	
+	
+}
+
+#eje2{
+	
+	display:flex;
+	justify-content:center;
+	
+}
+#eje2a{
+	
+	display: flex;
+	justify-content: center;
+}
+
+#eje1{
+	
+	display: flex;
+	justify-content: flex-end;
+	
+	
+}
+#eje3{
+	
+	display: flex;
+	justify-content: space-between;
+	
+	
+}
