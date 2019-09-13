@@ -1,0 +1,44 @@
+
+$width: 100px;
+$height: 50px;
+
+@mixin flex-std {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+@mixin flex-std1 {
+    display: flex;
+	justify-content: space-between;
+}
+
+@mixin flex-std2{
+
+    display: flex;
+	justify-content: flex-end;
+}
+
+
+#eje1{
+
+  @include flex-std2();
+
+}
+
+#eje2>img{
+
+width: $width;
+height: $height;
+@include flex-std();
+
+}
+
+#eje3{
+
+    @include flex-std1();
+
+}
+
+
